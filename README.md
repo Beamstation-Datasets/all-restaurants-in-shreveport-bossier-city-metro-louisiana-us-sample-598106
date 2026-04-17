@@ -1,6 +1,6 @@
 # All Restaurants in Shreveport-Bossier City (Metro), Louisiana, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 107 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `598106` |
 | Location | Shreveport-Bossier City, LA |
 | Category | Restaurants |
-| Full dataset size | 527 records |
-| Free sample size | 25 records (4.74%) |
-| Last export | 2026-03-31T16:31:26.450969+00:00 |
+| Full dataset size | 1,078 records |
+| Free sample size | 107 records (9.93%) |
+| Last export | 2026-04-14T17:24:31.711456+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-shreveport-bossier-city-metro-louisiana-us-sample-598106/releases/download/sample-latest/beamstation_598106_restaurants-us-shreveportbossiercityla_SAMPLE_DIST.csv) |
 
 ## What is in this sample
