@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d75abbfc-d50d-439e-9e02-be97ad3c2e20",
+  "export_job_id": "3b1d7479-68eb-40f5-bf07-be1958d7f95d",
   "id_short": 598106,
-  "published_at": "2026-04-29T07:47:21Z",
+  "published_at": "2026-05-07T19:20:29Z",
   "repo_name": "all-restaurants-in-shreveport-bossier-city-metro-louisiana-us-sample-598106",
   "sample_asset_name": "beamstation_598106_restaurants-us-shreveportbossiercityla_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/598106/beamstation_598106_restaurants-us-shreveportbossiercityla_SAMPLE_DIST.csv",
-  "sample_records": 106,
-  "sample_sha256": "08fd8af5facbac6d9270b240b4113a33e41a29947c24be3743516be367bbca74",
-  "sample_size_bytes": 353240,
-  "total_records": 1069
+  "sample_records": 112,
+  "sample_sha256": "2a512fb149593c076f48f122811c69260ed55339626b4a65845c5b0e88995330",
+  "sample_size_bytes": 407486,
+  "total_records": 1122
 }
